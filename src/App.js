@@ -101,6 +101,6 @@ class App extends Component {
   }
 }
 
-const TASKS_URI = "http://spring-tasks-app.herokuapp.com/tasks-app/api/tasks";
+const TASKS_URI = "//spring-tasks-app.herokuapp.com/tasks-app/api/tasks";
 
 export default App;
